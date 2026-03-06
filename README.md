@@ -38,7 +38,7 @@ The goal of this project is to demonstrate **data analysis, visualization, and d
 amazon-stock-analysis-dashboard
 │
 ├── Analysis.ipynb
-├── dashboard.py
+├── dashboard.py 
 ├── requirements.txt
 ├── Amazon.csv
 └── README.md
