@@ -84,17 +84,6 @@ http://127.0.0.1:8050
 
 ---
 
-## 📊 Dashboard Preview
-
-*(Add a screenshot of your dashboard here)*
-
-Example:
-
-```
-![Dashboard Preview](dashboard.png)
-```
-
----
 
 ## 📈 Key Insights
 
