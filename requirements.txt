@@ -1,0 +1,5 @@
+dash==4.0.0
+pandas==3.0.1
+plotly==6.5.2
+matplotlib
+seaborn
